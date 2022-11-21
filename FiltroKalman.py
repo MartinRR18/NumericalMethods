@@ -2,7 +2,7 @@
 Título: Implemetación del filtro de Kalman en python.
 
 Descripción: 
--Primero crea una señal a partir de un proceso aleatorio e tipo gauss-markov  y la graficamos
+-Primero crea una señal a partir de un proceso aleatorio de tipo gauss-markov  y la graficamos
 
 -Posterior a esto generamos una señal, a partir de la primera, con ruido blanco y hacemos una gráfica de ambas señales para comparar.
 
