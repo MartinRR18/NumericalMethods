@@ -5,9 +5,13 @@ DESCRIPCION:
 Este programa encuentra la raíz de una función no-lineal usando el método de bisección o de bolzano.
 
 -->EJERCICIO
- La solución de la ecuación de caída libre de un paracaidista considerando la fuerza de rozamiento con el aire proporcional a su velocidad es no-lineal.
-
-Si queremos saber por ejemplo  la razón τ = m/c para la cual la velocidad es de 20 m/s a los 5 segundos de tiempo de caída debemos hacer el cálculo de forma númerica.
+ La solución de la ecuación de caída libre de un paracaidista 
+ considerando la fuerza de rozamiento con el aire proporcional 
+ a su velocidad es no-lineal.
+ 
+Si queremos saber por ejemplo  la razón τ = m/c para la cual la 
+velocidad es de 20 m/s a los 5 segundos de tiempo de caída 
+debemos hacer el cálculo de forma númerica.
 """
 
 
